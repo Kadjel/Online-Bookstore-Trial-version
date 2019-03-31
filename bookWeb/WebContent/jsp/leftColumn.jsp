@@ -1,3 +1,9 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    
+<%@ page import="java.util.List" %>
+<%@ page import="java.util.Iterator" %>
+<%@ page import="com.apress.ebookstore.model.Category" %>
 	
 <link rel="stylesheet" href="css/bookstore.css" type="text/css" />
 <script src="js/bookstore.js" type="text/javascript"></script>
